@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+```js script
+
+import "./my-card.js";
+window.alert("You been haxxed")
+
+```
+
 <!--
 **EdwinChua/EdwinChua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
