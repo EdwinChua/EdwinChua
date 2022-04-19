@@ -1,8 +1,3 @@
-```js script
-import "./my-card.js";
-window.alert("You been haxxed")
-```
-
 ### Hi there 👋
 
 
