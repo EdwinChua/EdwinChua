@@ -7,6 +7,7 @@
 ### [Deck.js](http://imakewebthings.com/deck.js/)
 - Powerpoint style presentation slides
 - JQuery
+- [Github Link](https://github.com/imakewebthings/deck.js)
 
 ### [Remotion](https://www.remotion.dev/)
 - Create videos from data
