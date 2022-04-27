@@ -17,6 +17,9 @@
   - $10 / dev seat / mth
   - $15 / cloud deployment / mth
 
+### [Text2Wav](https://github.com/abbr/text2wav.node.js)
+- Converts text to audio file
+
 ## DevOps
 ### [Terraform](https://www.terraform.io/)
 - Terraform is an open-source infrastructure as code software tool created by HashiCorp
