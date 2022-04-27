@@ -20,6 +20,9 @@
 ### [Text2Wav](https://github.com/abbr/text2wav.node.js)
 - Converts text to audio file
 
+### [Puppeteer](https://github.com/puppeteer/puppeteer)
+- Headless browser for testing, generating screenshots, loading websites for scraping etc...
+
 ## DevOps
 ### [Terraform](https://www.terraform.io/)
 - Terraform is an open-source infrastructure as code software tool created by HashiCorp
