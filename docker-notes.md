@@ -19,9 +19,15 @@ docker run --name mysql_1 -e MYSQL_ROOT_PASSWORD=123456 -e MYSQL_TCP_PORT=3307 -
 
 https://hub.docker.com/_/redis
 
+https://hub.docker.com/r/redislabs/redismod - with modules
+
 ### Accessing redis server with node instead of the official redis-cli
 
 Links
 
 https://redis.com/blog/get-redis-cli-without-installing-redis-server/
 https://www.npmjs.com/package/redis-cli
+
+With additional modules like timeseries
+
+https://developer.redis.com/explore/redismod/
