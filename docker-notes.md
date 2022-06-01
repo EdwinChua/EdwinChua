@@ -11,3 +11,8 @@ Starts a container
 ```cmd
 docker run --name mysql_1 -e MYSQL_ROOT_PASSWORD=123456 -e MYSQL_TCP_PORT=3307 -p 3307:3307 -d mysql:8
 ```
+
+
+## Redis
+
+https://redis.com/blog/get-redis-cli-without-installing-redis-server/
