@@ -2,11 +2,14 @@
 
 I'm a fullstack developer from Singapore.
 
-
+<style>
+table {
+  border: 0 px !important;
+}
+</style>
 | | |
 | --- | --- |
-| [![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwinchua&count_private=true&show_icons=true&theme=dark)](https://github.com/edwinchua/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinchua&layout=compact&theme=dark)](https://github.com/edwinchua)
- |
+| [![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwinchua&count_private=true&show_icons=true&theme=dark)](https://github.com/edwinchua/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinchua&layout=compact&theme=dark)](https://github.com/edwinchua) |
 
 ## My skillsets
 
