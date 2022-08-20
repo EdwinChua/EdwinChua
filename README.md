@@ -2,7 +2,11 @@
 
 I'm a fullstack developer from Singapore.
 
-[![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwinchua&count_private=true&show_icons=true&theme=dark)](https://github.com/edwinchua/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinchua&layout=compact&theme=dark)](https://github.com/edwinchua)
+
+| | |
+| --- | --- |
+| [![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwinchua&count_private=true&show_icons=true&theme=dark)](https://github.com/edwinchua/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinchua&layout=compact&theme=dark)](https://github.com/edwinchua)
+ |
 
 ## My skillsets
 
@@ -23,7 +27,7 @@ I'm a fullstack developer from Singapore.
 
 ## Tools I love
 
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white) ![Github Copilot](https://img.shields.io/badge/Github%20Copilot-0969da?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## Find me on
 
