@@ -30,7 +30,7 @@ I'm a fullstack developer from Singapore.
 
 ## Find me on
 
-[![Edwin's StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7029064/edwin-chuahttps://www.linkedin.com/in/edwinchuach/) [![Edwin's Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwinchuach/) [![Edwin's LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/EdwinChua/)
+[![Edwin's StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7029064/edwin-chua) [![Edwin's Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwinchuach/) [![Edwin's LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/EdwinChua/)
 
 [![Edwin's Thingiverse](https://img.shields.io/badge/thingiverse-0077B5?style=for-the-badge&logo=thingiverse&logoColor=white)](https://www.thingiverse.com/polared/designs)
 
