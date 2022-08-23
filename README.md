@@ -1,11 +1,14 @@
 ## Hi there 👋
 
-I'm a fullstack developer from Singapore.
+I'm a fullstack developer from Singapore. 
 
 [![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwinchua&count_private=true&show_icons=true&theme=dark)](https://github.com/edwinchua/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinchua&layout=compact&theme=dark)](https://github.com/edwinchua)
 
+### Education
+- Post-Graduate Diploma in Systems Analysis (National University of Singapore - Institute of Systems Science)
+- BSc Biomedical Science (University of Western Australia)
 
 ## My skillsets
 
