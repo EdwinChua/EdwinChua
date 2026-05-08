@@ -27,19 +27,6 @@ Angular · Node.js · Express · C# · MySQL · MongoDB · MSSQL · Unity3D · O
 
 ---
 
-### 📊 Stats
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=edwinchua&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinchua&layout=compact&theme=tokyonight&hide_border=true" /></td>
-  </tr>
-</table>
-
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edwinchua&theme=tokyo-night&hide_border=true&area=true)
-
----
-
 ### 🌐 Elsewhere
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwinchuach/)
