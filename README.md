@@ -33,5 +33,3 @@ Angular · Node.js · Express · C# · MySQL · MongoDB · MSSQL · Unity3D · O
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7029064/edwin-chua)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/EdwinChua/)
 [![Thingiverse](https://img.shields.io/badge/Thingiverse-248BFB?style=for-the-badge&logo=thingiverse&logoColor=white)](https://www.thingiverse.com/polared/designs)
-
-<sub>Badge & widget credits [here](./github-profile-credits.md)</sub>
